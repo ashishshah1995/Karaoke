@@ -9,7 +9,8 @@ Admin -
 
    2 - Save the songs which are previously added
      
-Singer - 
+Singer -
+
    1 - Who can browse the songs according to artists, so that they know what songs are available
 
    2 - Can choose a song and place in a queue 
